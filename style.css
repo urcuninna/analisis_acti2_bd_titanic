@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(87, 1, 87);
+    color: white;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(236, 10, 78);
+    color: white;
+}
+h2{
+    text-align: center;
+    background-color: rgb(179, 20, 113);
+}
+a{
+    color: white;
+}
+.center{
+    display: inline-block;
+}
